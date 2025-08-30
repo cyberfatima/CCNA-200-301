@@ -3,9 +3,6 @@
 Welcome! 👋  
 This repository is a collection of **up-to-date CCNA 200-301 study resources, labs, and configurations** to help students and self-learners prepare for the **Cisco Certified Network Associate (CCNA)** exam.  
 
-Most online CCNA materials are outdated, so my goal is to make **learning easier, fresher, and accessible for everyone** 🌍✨  
-
----
 
 ## 🔑 What’s Inside?
 - 📘 **Study Notes** – simplified & structured notes from Cisco Official Cert Guide Vol. 1 & 2  
@@ -13,7 +10,6 @@ Most online CCNA materials are outdated, so my goal is to make **learning easier
 - 📂 **Cheat Sheets** – quick reference sheets for subnetting, protocols, and CLI commands  
 - 🛠 **Exam Prep** – practice questions, tips, and shortcuts  
 
----
 
 ## 💡 Why This Repo?
 Many beginners struggle to find **organized & updated CCNA material**. I’ve built this repo as a **free learning hub** for:
@@ -21,7 +17,6 @@ Many beginners struggle to find **organized & updated CCNA material**. I’ve bu
 - Beginners entering networking & cybersecurity
 - Anyone who loves hands-on labs instead of theory overload  
 
----
 
 ## 🖥️ Labs You’ll Find
 - Basic device setup (PC, Switch, Router)  
@@ -33,7 +28,6 @@ Many beginners struggle to find **organized & updated CCNA material**. I’ve bu
 
 *(More labs will be added as I progress 🚀)*  
 
----
 
 ## ⚡ How to Use
 1. Clone or download the repo:
